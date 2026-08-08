@@ -160,7 +160,7 @@ x-ui log | grep -i "sub:"
 
 ## نسخه‌های دیگر
 
-- [PGClock Fusion](https://github.com/Salarlotfi1381/PGClockFusion) — همین قالب برای پنل **Pasarguard**
+- [PGClock Fusion](https://github.com/Pasham0/PGClockFusion) — همین قالب برای پنل **Pasarguard**
 - [PGClock Lite](https://github.com/Mrclocks/PGClockLite) — سبک‌تر و سریع‌تر
 - [PGClock](https://github.com/Mrclocks/PGClock) — نسخهٔ استاندارد
 - [PGClock Pro](https://github.com/Mrclocks/PGClockPRO) — برند، زیرعنوان و لوگوی سفارشی
