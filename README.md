@@ -158,7 +158,7 @@ x-ui log | grep -i "sub:"
 
 ## Other Versions
 
-- [PGClock Fusion](https://github.com/Salarlotfi1381/PGClockFusion) — same template for **Pasarguard** panel
+- [PGClock Fusion](https://github.com/Pasham0/PGClockFusion) — same template for **Pasarguard** panel
 - [PGClock Lite](https://github.com/Mrclocks/PGClockLite) — lighter and faster
 - [PGClock](https://github.com/Mrclocks/PGClock) — standard version
 - [PGClock Pro](https://github.com/Mrclocks/PGClockPRO) — custom brand, subtitle and logo
